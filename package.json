@@ -19,6 +19,10 @@
     "@angular/platform-browser": "~9.1.4",
     "@angular/platform-browser-dynamic": "~9.1.4",
     "@angular/router": "~9.1.4",
+    "@ng-select/ng-select": "^4.0.0",
+    "@ngx-formly/bootstrap": "^5.0.0",
+    "@ngx-formly/core": "^5.0.0",
+    "@ngx-formly/schematics": "^5.7.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
